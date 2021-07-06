@@ -23,11 +23,13 @@ figure{
 	color: gray;
 }
 
-a{
-	color: brightblue;
-}
 
 #copyright{
 	text-align: right;
 	color: gray;
+}
+
+.link a{
+	color: aquamarine;
+	font-size: 16px;
 }
